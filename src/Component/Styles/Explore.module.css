@@ -1,0 +1,22 @@
+.main{
+
+    background:white;
+}
+
+.main1{
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.main1 h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.stat{
+    display: flex;
+    justify-content: center;
+
+}

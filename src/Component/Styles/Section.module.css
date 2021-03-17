@@ -1,0 +1,60 @@
+::root{
+    --maincolor:#6C63FF;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.col img{
+    height:150px
+}
+
+.col h3{
+    font-weight: 700;
+}
+
+.col p{
+    width:50%;
+    text-align: center;
+}
+
+.col button{
+    font-weight: 700;
+}
+
+.col button:hover{
+    transform:scale(1.2);
+    background-color:var(--maincolor);
+}
+
+.row{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+
+@media screen and (max-width:1024px){
+    .row{
+        flex-direction: column;
+        width: 100%;
+    }
+    .col{
+        margin-bottom: 50px;
+    }
+
+    .col img{
+        height: 100px;
+    }
+}

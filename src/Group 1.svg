@@ -1,0 +1,29 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1">
+<g id="circ1">
+<circle id="Ellipse 1" cx="250" cy="250" r="249" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 11" cx="473" cy="138" r="15" fill="#6EC75F"/>
+<circle id="Ellipse 6" cx="415" cy="65" r="15" fill="#9FD8CB"/>
+</g>
+<g id="circ2">
+<circle id="Ellipse 2" cx="250" cy="245" r="199" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 7" cx="265" cy="50" r="15" fill="#FFADC6"/>
+<circle id="Ellipse 12" cx="445" cy="195" r="15" fill="#403DE3"/>
+</g>
+<g id="circ3">
+<circle id="Ellipse 3" cx="250" cy="245" r="149" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 13" cx="300" cy="103" r="15" fill="#DF3099"/>
+<circle id="Ellipse 8" cx="165" cy="123" r="15" fill="#E5E059"/>
+</g>
+<g id="circ4">
+<circle id="Ellipse 4" cx="250" cy="245" r="99" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 9" cx="155" cy="218" r="15" fill="#C287E8"/>
+<circle id="Ellipse 14" cx="242" cy="145" r="15" fill="#6D6F2D"/>
+</g>
+<g id="circ5">
+<circle id="Ellipse 5" cx="250" cy="245" r="49" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 15" cx="295" cy="230" r="15" fill="#F39C6A"/>
+<circle id="Ellipse 10" cx="242" cy="289" r="15" fill="#EA2B1F"/>
+</g>
+</g>
+</svg>

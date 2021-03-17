@@ -1,0 +1,43 @@
+
+::root{
+    --maincolor:#6C63FF;
+}
+
+.Hero{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+   
+}
+
+.Hero h1{
+    font-size: 40px;
+}
+
+.Hero p{
+    width: 50%;
+    line-height: 30px;
+    text-align: center;
+}
+
+@media screen and (max-width:1024px){
+    .Hero{
+        padding: 150px 10px 100px 10px;
+        height: auto;
+        
+    }
+    .Hero h1{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .Hero p{
+        width:100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+}
+

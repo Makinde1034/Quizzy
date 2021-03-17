@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+.footer ul{
+    display: flex;
+    width: 7%;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.footer ul li{
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.Movies{
+    padding-top: 15vh;
+}
+
+.nav h1{
+    font-size: 30px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../undraw_video_files_fu10.png');
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left;
+    user-select: none;
+    
+}
+
+.main h3{
+    font-size: 30px;
+    text-align: center;
+}
+
+.main button{
+    width:300px;
+    height: 60px;
+    text-transform:uppercase;
+    font-weight:bold;
+    margin: 20px;
+    padding: 20px 20px;
+}
+
+@media screen and (max-width:1024px){
+    .Movies{
+        padding-top: 15vh;
+    }
+    .nav h1{
+        font-size: 20px;
+    }
+
+    .main{
+        background-size: 100%;
+        padding: 10px 10px;
+    }
+
+    .main h3{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .main button{
+        width:auto;
+    }
+}
