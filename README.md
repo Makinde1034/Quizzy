@@ -1,1 +1,1 @@
-# Getting Started with Create React App  
+# Welcome to quizzy, feel free to add your contributions. :)
